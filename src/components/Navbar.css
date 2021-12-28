@@ -1,0 +1,54 @@
+.header {
+  margin-top: 0px;
+}
+.app-header {
+  width: 100;
+  background-color: greenyellow;
+}
+.contact-details {
+  display: flex;
+  flex-direction: row;
+  margin-left: 15%;
+}
+
+.contact-number {
+  color: honeydew;
+  font-size: 20px;
+  /* margin-left: 10px; */
+}
+
+.contact-number2 {
+  color: honeydew;
+  font-size: 20px;
+  margin-left: 9%;
+  text-decoration: underline;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  padding: 1%;
+}
+
+.navbarLeft {
+  display: flex;
+  flex-direction: row;
+  margin-left: 12%;
+}
+
+.content {
+  font-weight: 300;
+  font-size: 20px;
+  margin-left: 10%;
+  color: black;
+}
+
+.rightDiv {
+  margin-left: 40%;
+}
+.right-content1 {
+  font-weight: 300;
+  font-size: 20px;
+  color: black;
+}
